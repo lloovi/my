@@ -2,11 +2,7 @@ import tkinter
 import random
 import time
 
-# window = tkinter.Tk()
-# создаем холст и размещаем его в окне
-# canvas = tkinter.Canvas(window, width=800, height=700)
-# canvas.pack()
-# colors = ("blue", "black", "coral", "cyan", "red", "green", "gold")
+
 
 number = random.randint(1, 10)
 name = input("Как тебя зовут? ")
